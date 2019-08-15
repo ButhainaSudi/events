@@ -12,9 +12,20 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('hch.index');
     
 });
+
+Route::get('donation', function () {
+    return view('hch.donation');
+    
+});
+
+Route::get('needs', function () {
+    return view('hch.needs');
+    
+});
+
 
 Route::get('users', ['uses' => 'UsersController@index']);
 Route::get('users/create', ['uses' => 'UsersController@create']);
