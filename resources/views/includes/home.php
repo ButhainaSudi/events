@@ -1,6 +1,6 @@
 <video width = "100%" height="auto" loop autoplay alt="watoto">
 
-  <source src = "kids.mp4" type="video/mp4">
+  <source src = "kids.mp4" type="video/mp4" poster="/media/donate/donate.jpg">
   <source src = "kids.ogg" type="video/ogg">
   Your browser does not support the video tag.
 </video>
