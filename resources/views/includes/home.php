@@ -1,4 +1,5 @@
-<video width = "100%" height="auto" loop muted autoplay alt="watoto">
+<video width = "100%" height="auto" loop autoplay alt="watoto">
+
   <source src = "kilikids.mp4" type="video/mp4">
   <source src = "kilikids.ogg" type="video/ogg">
   Your browser does not support the video tag.
