@@ -15,7 +15,7 @@
       <img src = "/media/donate/donate.jpg" style="width:100%; height:300px">
         <div class="w3-container w3-white">
           <h4> Orphanage Donation Request</h4>
-          <p>The Help Children Foundation has functioned for over 20 years and has earned a reputation as a reliable and enthusiastic organization that has helped to better the lives of hundreds of children. We hope you might want to perform a notable act of philanthropy and help the children.
+          <p>The Hope Children Home has functioned for over 20 years and has earned a reputation as a reliable and enthusiastic organization that has helped to better the lives of hundreds of children. We hope you might want to perform a notable act of philanthropy and help the children.
             <p><strong>~ Loreen F., Deputy Director ~</strong></p>
           </p>
           <p>
