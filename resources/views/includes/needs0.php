@@ -32,7 +32,7 @@ Because of shipping and airline luggage costs, it is often easiest to raise fund
           </ul>
 
       </div>
-      <img src="/media/needs/food.jpg" style="width:100%; height:120px">
+      <img src="/media/needs/food.jpg" style="width:100%; height:140px">
     </div>
     </div>
 
@@ -54,7 +54,7 @@ Because of shipping and airline luggage costs, it is often easiest to raise fund
             <li>Fred</li>
           </ul>
       </div>
-      <img src="/media/needs/hygiene.jpg" style="width:100%; height:120px">
+      <img src="/media/needs/hygiene.jpg" style="width:100%; height:140px">
     </div>
     </div>
 
@@ -76,7 +76,7 @@ Because of shipping and airline luggage costs, it is often easiest to raise fund
             <li>Fred</li>
           </ul>
       </div>
-      <img src="/media/needs/books.jpg" style="width:100%; height:120px">
+      <img src="/media/needs/books.jpg" style="width:100%; height:140px">
     </div>
     </div>
 
@@ -98,7 +98,7 @@ Because of shipping and airline luggage costs, it is often easiest to raise fund
             <li>Fred</li>
           </ul>
       </div>
-      <img src="/media/needs/cloth.png" style="width:100%; height:120px">
+      <img src="/media/needs/cloth.png" style="width:100%; height:140px">
     </div>
     </div>
 
@@ -119,7 +119,7 @@ Because of shipping and airline luggage costs, it is often easiest to raise fund
             <li>Fred</li>
           </ul>
       </div>
-      <img src="/media/needs/building.png" style="width:100%; height:120px">
+      <img src="/media/needs/building.png" style="width:100%; height:140px">
     </div>
     </div>
 
@@ -141,7 +141,7 @@ Because of shipping and airline luggage costs, it is often easiest to raise fund
             <li>Fred</li>
           </ul>
       </div>
-      <img src="/media/needs/others.jpg" style="width:100%; height:120px">
+      <img src="/media/needs/others.jpg" style="width:100%; height:140px">
     </div>
     </div>
 
