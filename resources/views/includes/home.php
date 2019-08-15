@@ -1,12 +1,3 @@
-<video width="320" height="240" controls>  
-<source src="{{URL::asset('kilikids')}}" type="video/mp4">  
-<source src="..public/kilikids.mp4" type="video/mp4">  
-Your browser does not support the video tag.
-</video>
-
-
-
-
 <video width = "100%" height="auto" loop muted autoplay alt="watoto">
   <source src = "kilikids.mp4" type="video/mp4">
   <source src = "kilikids.ogg" type="video/ogg">
