@@ -1,0 +1,7 @@
+heroku login
+touch Procfile
+echo web: vendor/bin/heroku-php-apache2 public/ > Procfile
+git add.    git commit -m "message"
+heroku create
+git remote -v
+git push heroku master

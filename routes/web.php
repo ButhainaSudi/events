@@ -12,17 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('hch.index');
+    return view('index');
     
 });
 
 Route::get('donation', function () {
-    return view('hch.donation');
+    return view('donation');
     
 });
 
 Route::get('needs', function () {
-    return view('hch.needs');
+    return view('needs');
     
 });
 
