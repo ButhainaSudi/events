@@ -6,7 +6,7 @@
 </video>
 
 <div class = "w3-container w3-padding-32 w3-theme-l1">
-  <h1 align = "center">YOU CAN DO A LOT TO HELP US ALL</h1>
+  <h1 align = "center">YOU CAN DO A LOT TO HELP</h1>
 </div>
 
 <div class="w3-row-padding w3-theme">
